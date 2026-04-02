@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Patric Oliveira
+# 👋 Olá, eu sou Patric Pereira
 
 ## 🔐 Analista Sr de Segurança da Informação | Pentest | Red Team | SIEM | Threat Hunting | Cloud Security (Office 365) | MITRE ATT&CK | SOC | Incident Response
 
